@@ -1,5 +1,3 @@
-## Sumner Evans
-
 I'm a Software Engineer at [The Trade Desk](https://thetradedesk.com) and an Adjunct Professor at [Colorado School of Mines](https://mines.edu).
 
 * [Resume](https://sumnerevans.com/portfolio/resume.pdf)
