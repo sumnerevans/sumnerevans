@@ -5,8 +5,8 @@ I'm a Software Engineer at [The Trade Desk](https://thetradedesk.com) and an Adj
 * [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 * Most of the projects I maintain and actively work on are over on at the following sites:
   * [sourcehut](https://sr.ht/~sumner)
+    * [Tracktime](https://sr.ht/~sumner/tracktime) - a filesystem-backed time tracking solution
+    * [Offlinemsmtp](https://sr.ht/~sumner/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
+    * [And more](https://sr.ht/~sumner)
   * [GitLab](https://gitlab.com/sumner)
-
-<p align="center">
-  <img alt="Sumner's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sumnerevans&show_icons=true&theme=dark" />
-</p>
+    * [Sublime Music](https://gitlab.com/sublime-music/sublime-music) - a native Revel/Gonic/Subsonic/Airsonic/*sonic client for Linux. Built using Python and GTK+.
