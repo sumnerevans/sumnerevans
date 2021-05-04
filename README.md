@@ -3,7 +3,7 @@ I'm a Software Engineer at [The Trade Desk](https://thetradedesk.com) and an Adj
 * [Resume](https://sumnerevans.com/portfolio/resume.pdf)
 * [Personal website](https://sumnerevans.com)
 * [LinkedIn](https://www.linkedin.com/in/sumnerevans)
-* @sumner:sumnerevans.com on Matrix
+* [@sumner:sumnerevans.com](https://matrix.to/#/@sumner:sumnerevans.com) on Matrix
 * Projects I contribute to on GitHub
   * I am a [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer. (Ping me if you need a review.)
 * Most of the other projects I maintain and actively work on are on the following sites:
