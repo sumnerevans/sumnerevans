@@ -5,6 +5,7 @@ I'm a Software Engineer at [The Trade Desk](https://thetradedesk.com) and an Adj
 * [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 * [@sumner:sumnerevans.com](https://matrix.to/#/@sumner:sumnerevans.com) on Matrix
 * Projects I contribute to on GitHub
+  * [LinkedIn Matrix bridge](https://github.com/sumnerevans/linkedin-matrix) and [LinkedIn Messaging API](https://github.com/sumnerevans/linkedin-messaging-api).
   * I am a [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer. (Ping me if you need a review.)
   * I maintain a couple of packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
 * Most of the other projects I maintain and actively work on are on the following sites:
