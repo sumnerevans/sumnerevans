@@ -1,4 +1,4 @@
-I'm a Software Engineer at [The Trade Desk](https://thetradedesk.com) and an Adjunct Professor at [Colorado School of Mines](https://mines.edu).
+I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor at [Colorado School of Mines](https://mines.edu).
 
 * [Resume](https://sumnerevans.com/portfolio/resume.pdf)
 * [Personal website](https://sumnerevans.com)
