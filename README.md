@@ -3,7 +3,7 @@ I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor
 * [Resume](https://sumnerevans.com/portfolio/resume.pdf)
 * [Personal website](https://sumnerevans.com)
 * [LinkedIn](https://www.linkedin.com/in/sumnerevans)
-* [@sumner:sumnerevans.com](https://matrix.to/#/@sumner:sumnerevans.com) on Matrix
+* [@sumner:nevarro.space](https://matrix.to/#/@sumner:nevarro.space) on Matrix
 * Projects I contribute to on GitHub
   * [LinkedIn Messaging API](https://github.com/sumnerevans/linkedin-messaging-api).
   * I am a [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer. (Ping me if you need a review.)
