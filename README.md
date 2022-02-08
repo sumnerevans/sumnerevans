@@ -6,6 +6,7 @@ I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor
 * [@sumner:nevarro.space](https://matrix.to/#/@sumner:nevarro.space) on Matrix
 * Projects I contribute to on GitHub
   * [LinkedIn Messaging API](https://github.com/sumnerevans/linkedin-messaging-api).
+  * [Offlinemsmtp](https://github.com/sumnerevans/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
   * I am a [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer. (Ping me if you need a review.)
   * I maintain a couple of packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
 * Most of the other projects I maintain and actively work on are on the following sites:
