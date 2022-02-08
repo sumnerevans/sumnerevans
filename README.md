@@ -14,5 +14,4 @@ I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor
     * [LinkedIn Matrix bridge](https://gitlab.com/beeper/linkedin)
   * [sourcehut](https://sr.ht/~sumner)
     * [Tracktime](https://sr.ht/~sumner/tracktime) - a filesystem-backed time tracking solution
-    * [Offlinemsmtp](https://sr.ht/~sumner/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
     * [And more](https://sr.ht/~sumner)
