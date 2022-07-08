@@ -1,4 +1,4 @@
-I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor at [Colorado School of Mines](https://mines.edu).
+### I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor at [Colorado School of Mines](https://mines.edu).
 
 * [Resume](https://sumnerevans.com/portfolio/resume.pdf)
 * [Personal website](https://sumnerevans.com)
@@ -14,3 +14,7 @@ I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor
   * [GitLab](https://gitlab.com/sumner)
     * [Sublime Music](https://gitlab.com/sublime-music/sublime-music) - a native Revel/Gonic/Subsonic/Airsonic/*sonic client for Linux. Built using Python and GTK+.
     * [LinkedIn Matrix bridge](https://gitlab.com/beeper/linkedin) - a Matrix bridge for LinkedIn messages. Maintaining on behalf of Beeper.
+
+---
+
+[![Sumner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumnerevans&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
