@@ -28,3 +28,4 @@ Contribute to my 🍣 fund:
 ---
 
 [![Sumner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumnerevans&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumnerevans&theme=dark)](https://git.io/streak-stats)
