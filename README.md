@@ -1,4 +1,4 @@
-### I'm a Software Engineer at [Beeper](https://beeper.com) and an Adjunct Professor at [Colorado School of Mines](https://mines.edu).
+### I'm a Software Engineer at [Beeper](https://beeper.com)
 
 I write software primarily in Go and Python, fueled by 🍣 and bad decisions.
 
