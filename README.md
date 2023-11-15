@@ -1,4 +1,6 @@
-### I'm a Software Engineer at [Beeper](https://beeper.com)
+### Sumner Evans
+
+Software Engineer at [Beeper](https://beeper.com).
 
 I write software primarily in Go and Python, fueled by 🍣 and bad decisions.
 
