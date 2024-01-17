@@ -9,7 +9,6 @@ I write software primarily in Go and Python, fueled by 🍣 and bad decisions.
 * Projects I maintain or contribute to:
   * [Sublime Music](https://github.com/sublime-music/sublime-music) - a native Gonic/Subsonic/Airsonic/\*sonic client for Linux. Built using Python and GTK+.
   * All of the [mautrix](https://github.com/mautrix) projects for my job at Beeper.
-  * [LinkedIn Messaging API](https://github.com/beeper/linkedin-messaging-api) - an Python library for sending and receiving LinkedIn messages in. Maintaining on behalf of Beeper.
   * [LinkedIn Matrix bridge](https://github.com/beeper/linkedin) - a Matrix bridge for LinkedIn messages. Maintaining on behalf of Beeper.
   * [Offlinemsmtp](https://github.com/sumnerevans/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
   * [Tracktime](https://github.com/sumnerevans/tracktime) - a filesystem-backed time tracking solution.
