@@ -1,4 +1,4 @@
-**Software Engineer at [Beeper](https://beeper.com)**
+**Software Engineer at [Beeper](https://beeper.com) (part of [Automattic](https://automattic.com/))**
 
 I write software primarily in Go and Python, fueled by 🍣 and bad decisions.
 
