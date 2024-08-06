@@ -1,6 +1,6 @@
 **Software Engineer at [Automattic](https://automattic.com/) working on [Beeper](https://beeper.com)**
 
-I write software primarily in Go and Python, fueled by 🍣 and bad decisions.
+I write software primarily in Go, fueled by 🍣 and bad decisions.
 
 [Resume](https://sumnerevans.com/portfolio/resume.pdf) | [Personal website](https://sumnerevans.com?src=gh) | [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 
