@@ -4,7 +4,7 @@ I write software primarily in Go, fueled by 🍣 and bad decisions.
 
 [Resume](https://sumnerevans.com/portfolio/resume.pdf) | [Personal website](https://sumnerevans.com?src=gh) | [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 
-Contact me [@sumner:nevarro.space](https://matrix.to/#/@sumner:nevarro.space) on Matrix
+Contact me [@sumner:nevarro.space](https://matrix.to/#/@sumner:nevarro.space) on Matrix.
 
 **Projects:**
 
@@ -18,6 +18,11 @@ Contributor:
 * All of the [mautrix](https://github.com/mautrix) projects for my job at Beeper.
 * [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer.
 * A a couple of packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
+
+**Notable Articles:**
+
+* [Is Getting A Master's Degree in Computer Science Worth It?](https://sumnerevans.com/posts/school/is-getting-a-masters-in-cs-worth-it/) - an analysis of whether persuing a master's in computer science is worth it from a financial, educational, and social perspective.
+* [Message Security in Matrix](https://sumnerevans.com/posts/matrix/megolm/) - a discussion of Megolm, the mechanism for end-to-end encryption in Matrix.
 
 **My Company:** [Nevarro](https://nevarro.space)
 
