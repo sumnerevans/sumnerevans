@@ -21,8 +21,12 @@ Contributor:
 
 **Notable Articles:**
 
-* [Is Getting A Master's Degree in Computer Science Worth It?](https://sumnerevans.com/posts/school/is-getting-a-masters-in-cs-worth-it/) - an analysis of whether persuing a master's in computer science is worth it from a financial, educational, and social perspective.
-* [Message Security in Matrix](https://sumnerevans.com/posts/matrix/megolm/) - a discussion of Megolm, the mechanism for end-to-end encryption in Matrix.
+* [Is Getting A Master's Degree in Computer Science Worth It?](https://sumnerevans.com/posts/school/is-getting-a-masters-in-cs-worth-it?src=ghreadme) - an analysis of whether persuing a master's in computer science is worth it from a financial, educational, and social perspective.
+* [Message Security in Matrix](https://sumnerevans.com/posts/matrix/megolm?src=ghreadme) - a discussion of Megolm, the mechanism for end-to-end encryption in Matrix.
+
+**Notable Presentations:**
+
+* [Matrix Cryptographic Key Infrastructure](https://sumnerevans.com/posts/matrix/cryptographic-key-infrastructure?src=ghreadme) - an overview of key sharing, key backup, device and user verification, and secret storage within Matrix.
 
 **My Company:** [Nevarro](https://nevarro.space)
 
