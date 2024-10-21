@@ -1,10 +1,8 @@
 **Software Engineer at [Beeper](https://beeper.com) (part of [Automattic](https://automattic.com/))**
 
-I write software primarily in Go, fueled by 🍣 and bad decisions.
+I write software primarily in Go and related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
 
 [Resume](https://sumnerevans.com/portfolio/resume.pdf) | [Personal website](https://sumnerevans.com?src=gh) | [LinkedIn](https://www.linkedin.com/in/sumnerevans)
-
-Contact me [@sumner:nevarro.space](https://matrix.to/#/@sumner:nevarro.space) on Matrix.
 
 **Projects:**
 
