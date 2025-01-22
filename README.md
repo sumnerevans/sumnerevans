@@ -1,4 +1,4 @@
-**Software Engineer at [Beeper](https://beeper.com) (part of [Automattic](https://automattic.com/))**
+### Software Engineer at [Beeper](https://beeper.com) (part of [Automattic](https://automattic.com/))
 
 I write software primarily in Go and related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
 
@@ -6,10 +6,11 @@ I write software primarily in Go and related to [Matrix](https://matrix.org), fu
 
 **Projects:**
 
-Author:
+Primary Maintainer:
+* [mautrix-telegram bridge](https://github.com/beeper/linkedin) - a Matrix bridge for Telegram. Maintaining on behalf of Beeper.
 * [LinkedIn Matrix bridge](https://github.com/beeper/linkedin) - a Matrix bridge for LinkedIn messages. Maintaining on behalf of Beeper.
-* [Offlinemsmtp](https://github.com/sumnerevans/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
-* [Tracktime](https://github.com/sumnerevans/tracktime) - a filesystem-backed time tracking solution.
+* [offlinemsmtp](https://github.com/sumnerevans/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
+* [tracktime](https://github.com/sumnerevans/tracktime) - a filesystem-backed time tracking solution.
 
 Contributor:
 * All of the [mautrix](https://github.com/mautrix) projects for my job at Beeper.
@@ -32,6 +33,7 @@ Contributor:
 **Notable Presentations:**
 
 * [Matrix Cryptographic Key Infrastructure](https://sumnerevans.com/posts/matrix/cryptographic-key-infrastructure?src=ghreadme) - an overview of key sharing, key backup, device and user verification, and secret storage within Matrix.
+* [Hungryserv: A Homeserver Optimized for Unfederated Use-Cases](https://sumnerevans.com/portfolio/#presentation-hungryserv) - A discussion about Hungryserv, a homeserver that Beeper is building to optimize unfederated bridge traffic.
 
 **My Company:** [Nevarro](https://nevarro.space)
 
