@@ -33,7 +33,7 @@ Contributor:
 **Notable Presentations:**
 
 * [Matrix Cryptographic Key Infrastructure](https://sumnerevans.com/posts/matrix/cryptographic-key-infrastructure?src=ghreadme) - an overview of key sharing, key backup, device and user verification, and secret storage within Matrix.
-* [Hungryserv: A Homeserver Optimized for Unfederated Use-Cases](https://sumnerevans.com/portfolio/#presentation-hungryserv) - A discussion about Hungryserv, a homeserver that Beeper is building to optimize unfederated bridge traffic.
+* [Hungryserv: A Homeserver Optimized for Unfederated Use-Cases](https://sumnerevans.com/portfolio/#presentation-hungryserv) - a discussion about Hungryserv, a homeserver that Beeper is building to optimize unfederated bridge traffic.
 
 **My Company:** [Nevarro](https://nevarro.space)
 
