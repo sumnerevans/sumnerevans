@@ -1,14 +1,14 @@
-### Software Engineer at [Beeper](https://beeper.com) (part of [Automattic](https://automattic.com/))
+### Senior Implementation Tech Lead at [Can/Am Technologies](https://canamtechnologies.com)
 
-I write software primarily in Go and related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
+I lead the engineering team responsible for building integrations with third-party vendors.
+
+In my free time, I write software primarily in Go and related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
 
 [Resume](https://sumnerevans.com/portfolio/resume.pdf) | [Personal website](https://sumnerevans.com?src=gh) | [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 
 **Projects:**
 
 Primary Maintainer:
-* [mautrix-telegram bridge](https://github.com/beeper/linkedin) - a Matrix bridge for Telegram. Maintaining on behalf of Beeper.
-* [LinkedIn Matrix bridge](https://github.com/beeper/linkedin) - a Matrix bridge for LinkedIn messages. Maintaining on behalf of Beeper.
 * [offlinemsmtp](https://github.com/sumnerevans/offlinemsmtp) - a wrapper for msmtp allowing you to use it offline.
 * [tracktime](https://github.com/sumnerevans/tracktime) - a filesystem-backed time tracking solution.
 
@@ -21,6 +21,8 @@ Contributor:
 <details>
 <summary>Previous</summary>
 
+* [mautrix-telegram bridge](https://github.com/mautrix/telegram) - a Matrix bridge for Telegram. Maintained on behalf of Beeper.
+* [LinkedIn Matrix bridge](https://github.com/mautrix/linkedin) - a Matrix bridge for LinkedIn messages. Maintained on behalf of Beeper.
 * [Sublime Music](https://github.com/sublime-music/sublime-music) - a native Gonic/Subsonic/Airsonic/\*sonic client for Linux. Built using Python and GTK+.
 
 </details>
