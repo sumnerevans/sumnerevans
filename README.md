@@ -1,6 +1,6 @@
-### Senior Implementation Tech Lead at [Can/Am Technologies](https://canamtechnologies.com)
+### Tech Lead at [Can/Am Technologies](https://canamtechnologies.com)
 
-I lead the engineering team responsible for building integrations with third-party vendors.
+I lead the engineering team responsible for building integrations with third-party vendors. ([See more](https://sumnerevans.com/portfolio/#experience-canam-tech-lead))
 
 In my free time, I write software primarily in Go and related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
 
