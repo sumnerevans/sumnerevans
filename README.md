@@ -14,12 +14,12 @@ Primary Maintainer:
 
 Contributor:
 * [Gomuks](https://github.com/tulir/gomuks) - a Matrix client written in Go.
-* [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer.
 * A a couple of packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
 
 <details>
 <summary>Previous</summary>
 
+* [Nix Home Manager](https://github.com/nix-community/home-manager) maintainer.
 * [mautrix-telegram bridge](https://github.com/mautrix/telegram) - a Matrix bridge for Telegram. Maintained on behalf of Beeper.
 * [mautrix-linkedin bridge](https://github.com/mautrix/linkedin) - a Matrix bridge for LinkedIn messages. Maintained on behalf of Beeper.
 * All of the [mautrix](https://github.com/mautrix) projects for my job at Beeper.
