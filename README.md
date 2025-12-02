@@ -6,6 +6,16 @@ In my free time, I write software primarily in Go and related to [Matrix](https:
 
 [Resume](https://sumnerevans.com/portfolio/resume.pdf) | [Personal website](https://sumnerevans.com?src=gh) | [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 
+**Notable Articles:**
+
+* [Is Getting A Master's Degree in Computer Science Worth It?](https://sumnerevans.com/posts/school/is-getting-a-masters-in-cs-worth-it?src=ghreadme) - an analysis of whether persuing a master's in computer science is worth it from a financial, educational, and social perspective.
+* [Message Security in Matrix](https://sumnerevans.com/posts/matrix/megolm?src=ghreadme) - a discussion of Megolm, the mechanism for end-to-end encryption in Matrix.
+
+**Notable Presentations:**
+
+* [Matrix Cryptographic Key Infrastructure](https://sumnerevans.com/posts/matrix/cryptographic-key-infrastructure?src=ghreadme) - an overview of key sharing, key backup, device and user verification, and secret storage within Matrix.
+* [Hungryserv: A Homeserver Optimized for Unfederated Use-Cases](https://sumnerevans.com/portfolio/#presentation-hungryserv) - a discussion about Hungryserv, a homeserver that Beeper is building to optimize unfederated bridge traffic.
+
 **Projects:**
 
 Primary Maintainer:
@@ -26,16 +36,6 @@ Contributor:
 * [Sublime Music](https://github.com/sublime-music/sublime-music) - a native Gonic/Subsonic/Airsonic/\*sonic client for Linux. Built using Python and GTK+.
 
 </details>
-
-**Notable Articles:**
-
-* [Is Getting A Master's Degree in Computer Science Worth It?](https://sumnerevans.com/posts/school/is-getting-a-masters-in-cs-worth-it?src=ghreadme) - an analysis of whether persuing a master's in computer science is worth it from a financial, educational, and social perspective.
-* [Message Security in Matrix](https://sumnerevans.com/posts/matrix/megolm?src=ghreadme) - a discussion of Megolm, the mechanism for end-to-end encryption in Matrix.
-
-**Notable Presentations:**
-
-* [Matrix Cryptographic Key Infrastructure](https://sumnerevans.com/posts/matrix/cryptographic-key-infrastructure?src=ghreadme) - an overview of key sharing, key backup, device and user verification, and secret storage within Matrix.
-* [Hungryserv: A Homeserver Optimized for Unfederated Use-Cases](https://sumnerevans.com/portfolio/#presentation-hungryserv) - a discussion about Hungryserv, a homeserver that Beeper is building to optimize unfederated bridge traffic.
 
 **My Company:** [Nevarro](https://nevarro.space)
 
