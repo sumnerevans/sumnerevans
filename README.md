@@ -1,8 +1,8 @@
 ### Tech Lead at [Can/Am Technologies](https://canamtechnologies.com)
 
-I lead the engineering team responsible for building integrations with third-party vendors. ([See more](https://sumnerevans.com/portfolio/#experience-canam-tech-lead))
+I lead a team of forward-deployed engineers responsible for building integrations with third-party vendors. ([See more](https://sumnerevans.com/portfolio/#experience-canam-tech-lead))
 
-In my free time, I write software primarily in Go and related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
+In my free time, I write software primarily in Go, often related to [Matrix](https://matrix.org), fueled by 🍣 and bad decisions.
 
 [Resume](https://sumnerevans.com/portfolio/resume.pdf) | [Personal website](https://sumnerevans.com?src=gh) | [LinkedIn](https://www.linkedin.com/in/sumnerevans)
 
