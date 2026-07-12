@@ -8,6 +8,7 @@ In my free time, I write software primarily in Go, often related to [Matrix](htt
 
 **Notable Articles:**
 
+* [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/?src=ghreadme) - an argument against [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) due to its focus on the wrong things and failure to deliver on its promises.
 * [Is Getting A Master's Degree in Computer Science Worth It?](https://sumnerevans.com/posts/school/is-getting-a-masters-in-cs-worth-it?src=ghreadme) - an analysis of whether persuing a master's in computer science is worth it from a financial, educational, and social perspective.
 * [Message Security in Matrix](https://sumnerevans.com/posts/matrix/megolm?src=ghreadme) - a discussion of Megolm, the mechanism for end-to-end encryption in Matrix.
 
