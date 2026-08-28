@@ -44,4 +44,4 @@ Contributor:
 
 Contribute to my 🍣 fund:
 
-[![Sponsor Badge](https://img.shields.io/github/sponsors/sumnerevans?logo=github)](https://github.com/sponsors/sumnerevans)
+[![Sponsor Badge](https://img.shields.io/github/sponsors/nevarro-space?logo=github)](https://github.com/sponsors/nevarro-space)
