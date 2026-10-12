@@ -25,7 +25,7 @@ Primary Maintainer:
 
 Contributor:
 * [Gomuks](https://github.com/tulir/gomuks) - a Matrix client written in Go.
-* A a couple of packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
+* A couple of packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
 
 <details>
 <summary>Previous</summary>
